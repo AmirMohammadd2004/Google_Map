@@ -44,15 +44,14 @@ Google Map is an Android application that allows users to view their current loc
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image1.png" width="280" alt="Home Screen"/>
+  <img src="https://github.com/user-attachments/assets/57e7cc30-9d55-4172-8aac-25250fb7951b" width="280" alt="Screen 1"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/your-image2.png" width="280" alt="Search Location"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image3.png" width="280" alt="Map View"/>
+  <img src="https://github.com/user-attachments/assets/2e53c143-d50a-411a-a8eb-8fb1e883dd14" width="280" alt="Screen 2"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/57516d0c-f388-480f-a275-110af2015ec0" width="280" alt="Screen 3"/>
 </p>
 
 ---
